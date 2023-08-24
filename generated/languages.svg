@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #3178c6;width: 46.862%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 25.733%;" class="progress-item"></span><span style="background-color: #e34c26;width: 12.988%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.970%;" class="progress-item"></span><span style="background-color: #f7523f;width: 4.432%;" class="progress-item"></span><span style="background-color: #c6538c;width: 3.627%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.715%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.448%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.181%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.044%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 46.861%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 25.738%;" class="progress-item"></span><span style="background-color: #e34c26;width: 12.986%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 4.970%;" class="progress-item"></span><span style="background-color: #f7523f;width: 4.431%;" class="progress-item"></span><span style="background-color: #c6538c;width: 3.626%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.715%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.447%;" class="progress-item"></span><span style="background-color: #f7931e;width: 0.181%;" class="progress-item"></span><span style="background-color: #438eff;width: 0.044%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -127,7 +127,7 @@ div.ellipsis {
         <circle xmlns="http://www.w3.org/2000/svg" cx="8" cy="9" r="5" />
     </svg>
     <span class="lang">PHP</span>
-    <span class="percent">25.73%</span>
+    <span class="percent">25.74%</span>
 </li>
 
 
